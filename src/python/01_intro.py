@@ -24,4 +24,8 @@
 `python3 -m pip freeze > requirements.txt`
 6. Use requirements.txt
 `python3 -m pip install -r requirements.txt`
+
+# Use the python interpreter
+1. `python` - opens up the python shell.
+2. Try the code here and write in final file.
 """
